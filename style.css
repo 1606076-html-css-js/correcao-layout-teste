@@ -1,36 +1,13 @@
 
-/* RESET */
 body {
-    margin: 0;
-    border: solid red 2px;
-    padding: 20px;
+    background-color: #D3D3D3;
 }
-
-header, main, aside {
-    padding: 20px;
-}
-
-div {
-    border: solid green 3px;
-}
-aside {
-    display: inline-block;
-    border: solid orange 2px;
-    width: 20%;
-    height: 300px;
-}
-
-main {
-    display: inline-block;
-    border: solid red 2px;
-    width: 60%;
-    height: 300px;
-}
-
-img {
+.cabecalho__titulo {
+    color: darkred;
     display: inline-block;
 }
 
-h1 {
-    display: inline-block;
+.botao {
+    background-color: darkred;
+    color: white;
 }
